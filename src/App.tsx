@@ -1,12 +1,12 @@
 import React from 'react';
 
-import { CoinList } from './components/CoinList'
+import { HomePage } from './components/HomePage'
 import { GlobalStyle } from './styles/global';
 
 function App() {
   return (
     <div className="App">
-      <CoinList />
+      <HomePage />
       <GlobalStyle />
     </div>
   );
