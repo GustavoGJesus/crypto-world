@@ -27,7 +27,7 @@ export const Content = styled.div`
 
             margin-top: 2.2rem;
             margin-right: 10px;
-            margin-left: 35rem;
+            margin-left: 34rem;
            
         }
     p{
