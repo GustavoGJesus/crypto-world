@@ -21,14 +21,15 @@ export const Title = styled.div`
 `;
 
 export const Content = styled.div`
+    display: flex;
+    justify-content: center;
+    align-items: center;
     img{ 
             width: 30px;
             float: left;
 
             margin-top: 2.2rem;
             margin-right: 10px;
-            margin-left: 34rem;
-           
         }
     p{
         float: left;

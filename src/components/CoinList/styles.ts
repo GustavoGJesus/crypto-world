@@ -2,15 +2,15 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     color: var(--font-color-white);
-    .coin-text{
+    .coin-search{
         margin-top: 10rem;
         text-align: center;
         color: var(--font-color-white);
-        font-size: 4rem;
+        font-size: 2rem;
         font-weight: 400;
     }
     form{
-        margin-left: 30rem;
+        margin-left: rem;
         margin-top: 2rem;
        
         input{
